@@ -4,4 +4,4 @@
 
 - Here is an example of simulation : 
 
-![simulation](SaveTheForest_video.mp4)
+![simulation](fire_forest_gif.gif)
